@@ -1,0 +1,1 @@
+print("Bournemouth".strip('O'))
